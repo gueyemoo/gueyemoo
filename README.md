@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Mohamed Gueye a student in software engineer.
+I am Mohamed Gueye a software engineer.
 
 I have been interested in computers since my childhood and I seek to learn new technologies on a daily basis.
 
